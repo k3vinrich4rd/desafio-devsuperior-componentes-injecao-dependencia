@@ -1,10 +1,10 @@
-package com.example.desafio.injecaodependencia;
+package com.devsuperior.desafio.orm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class DesafioOrmApplicationTests {
 
 	@Test
 	void contextLoads() {
