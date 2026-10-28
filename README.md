@@ -1,2 +1,2 @@
-Desafio ORM - Gerenciamento de Atividades
-Aplicação Java com Spring Boot e JPA/Hibernate para gerenciamento de atividades, participantes, categorias e blocos de horários.
+# desafio-devsuperior-componentes-injecao-dependencia
+Entrega de desafio proposto na formação Spring ministrada pelo Nélio Alves 
